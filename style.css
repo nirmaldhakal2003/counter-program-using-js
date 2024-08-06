@@ -1,0 +1,12 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+.align{
+    margin-left:650px;
+}
+button{
+    margin-left: 10px;
+}
